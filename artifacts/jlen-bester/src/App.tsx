@@ -172,6 +172,7 @@ function App() {
 
       <main id="main">
         <section className="hero" id="top" aria-labelledby="hero-heading">
+          <div className="hero-monogram" aria-hidden="true">JB</div>
           <div className="container hero-grid">
             <div className="hero-content">
               <div className="eyebrow"><span className="line" />Legal &amp; Communications</div>
@@ -193,7 +194,6 @@ function App() {
               </div>
             </div>
             <div className="hero-visual">
-              <div className="hero-monogram" aria-hidden="true">JB</div>
               <img
                 className="hero-portrait"
                 src={`${import.meta.env.BASE_URL}jlen-bester-headshot-clean.png`}
