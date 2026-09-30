@@ -195,7 +195,7 @@ function App() {
             <div className="hero-visual">
               <img
                 className="hero-portrait"
-                src={`${import.meta.env.BASE_URL}jlen-bester-headshot.png`}
+                src={`${import.meta.env.BASE_URL}jlen-bester-headshot-clean.png`}
                 alt="J'Len Bester smiling in a black blazer and white blouse"
                 width="899"
                 height="1214"
