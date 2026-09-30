@@ -220,7 +220,7 @@ function App() {
               <p data-testid="text-about-summary">Juris Doctor graduate (May 2026) with a Bachelor of Science in Mass Communications and four years of experience in administrative and regulatory law. Skilled at legal research, public-facing writing, and stakeholder communication. Texas Bar Examination results pending. Comfortable applying AI-enabled tools to research and writing workflows.</p>
               <div className="about-index" aria-label="Professional focus">
                 <div><strong>Juris Doctor</strong><small>May 2026</small></div>
-                <div><strong>San Antonio</strong><small>Texas</small></div>
+                <div><strong>Southern University Law Center</strong><small>Baton Rouge, Louisiana</small></div>
               </div>
             </div>
           </div>
