@@ -261,7 +261,7 @@ function App() {
               <article className="education-item reveal" data-testid="item-education-sulc">
                 <div className="education-item-top"><h3>Southern University Law Center</h3><span className="education-date">May 2026</span></div>
                 <p className="degree">Doctor of Jurisprudence</p>
-                <p className="education-place">Baton Rouge, LA</p>
+                <p className="education-place">Baton Rouge, Louisiana</p>
                 <ul>
                   <li>Senior Editor, Journal of International Law, Business, and Policy.</li>
                   <li>Participant, AbbVie Legal Academy for Intellectual Property.</li>
