@@ -192,9 +192,16 @@ function App() {
                 <a href="https://www.linkedin.com/in/jlenbester" target="_blank" rel="noopener noreferrer" data-testid="link-hero-linkedin">LinkedIn <ExternalLink size={12} strokeWidth={1.6} aria-hidden="true" /></a>
               </div>
             </div>
-            <div className="hero-visual" aria-hidden="true">
-              <div className="hero-monogram">JB</div>
-              <div className="hero-side-label">San Antonio, Texas</div>
+            <div className="hero-visual">
+              <img
+                className="hero-portrait"
+                src={`${import.meta.env.BASE_URL}jlen-bester-headshot.png`}
+                alt="J'Len Bester smiling in a black blazer and white blouse"
+                width="899"
+                height="1214"
+                fetchPriority="high"
+              />
+              <div className="hero-side-label" aria-hidden="true">San Antonio, Texas</div>
             </div>
           </div>
           <div className="hero-bottom" aria-hidden="true">
