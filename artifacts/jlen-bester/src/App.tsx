@@ -193,6 +193,7 @@ function App() {
               </div>
             </div>
             <div className="hero-visual">
+              <div className="hero-monogram" aria-hidden="true">JB</div>
               <img
                 className="hero-portrait"
                 src={`${import.meta.env.BASE_URL}jlen-bester-headshot-clean.png`}
